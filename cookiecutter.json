@@ -1,0 +1,8 @@
+{
+  "script_name" : "my_room_simulation",
+  "samplerate" : "16000",
+  "absorption" : "0.25",
+  "max_order" : "17",
+  "room_type" : [ "shoebox", "polygonal" ],
+  "dimension" : [ "2D", "3D" ]
+}
