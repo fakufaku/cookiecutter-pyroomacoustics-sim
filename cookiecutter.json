@@ -4,5 +4,5 @@
   "absorption" : "0.25",
   "max_order" : "17",
   "room_type" : [ "shoebox", "polygonal" ],
-  "dimension" : [ "2D", "3D" ]
+  "dimension" : [ "3D", "2D" ]
 }
